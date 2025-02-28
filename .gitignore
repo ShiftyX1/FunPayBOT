@@ -11,3 +11,5 @@
 /dist
 test.py
 backup.zip
+__pycache__
+.venv
